@@ -2,6 +2,10 @@
 ---
 演示站点：http://qqvxzf.cn/
 技术栈为vue3
+响应式布局
+电脑端视图
+![Uploading image.png…]()
+
 ##如何运行
 ```
 下载好代码后输入下面代码
