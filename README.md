@@ -1,24 +1,21 @@
 # moon-index
 
-## Project setup
+##如何运行
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+下载好代码后输入下面代码
+npm install
 ```
 
-### Compiles and minifies for production
+### 试运行
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
+npm run serve
 ```
 
-### Customize configuration
+### 如果运行成功代表代码没问题
+```
+ctrl + c 取消运行后输入打包代码
+npm build
+```
+
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
