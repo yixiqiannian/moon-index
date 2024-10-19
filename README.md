@@ -21,7 +21,7 @@ npm run serve
 ### 如果运行成功代表代码没问题
 ```
 ctrl + c 取消运行后输入打包代码
-npm build
+npm run build
 ```
 
 
